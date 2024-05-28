@@ -69,4 +69,9 @@ git push
 git commit -am "msg"
 
 
+### Extenções para o vscode
+1. Git History
+_Clicar com botão direito na area vazia do painel de arquivos do vscode e selecionar Git View Fille History_
+
+2. Git Graph
 
