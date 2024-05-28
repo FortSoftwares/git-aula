@@ -1,5 +1,7 @@
 __Danilo Almeida 27/05/2024__
-_Curso Youtube Pietro Martins De Oliveira_
+
+# Curso Git & GitHub
+- _Curso Youtube Pietro Martins De Oliveira_
 
 ## Primeiros passos
 1. criação da conta no github
