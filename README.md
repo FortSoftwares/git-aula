@@ -59,11 +59,14 @@ git push -u origin main
 _Executar um git log para ver detalhes do primeiro push_
 _Nesse momento já teremos os arquivos do projeto no github_
 
-## Enviar commit para o github
+### Enviar commit para o github
 _uitilizado após git add . e git commit -m "msg"_
 _Após o primeiro push eu não preciso excutar mais __git push -u origin main__ posso executar apenas_
 
 git push
+
+### Comitando diretamente sem precisar executar _git add ._ antes
+git commit -am "msg"
 
 
 
