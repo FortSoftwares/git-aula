@@ -1,0 +1,17 @@
+### Como instalei no ubuntu 24.04
+
+sudo apt update
+sudo apt install git
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+(echo; echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"') >> /home/danilo/.bashrc
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+
+source /home/danilo/.bashrc
+
+git config --global user.name "FortSoftwares"
+git config --global user.email "fortsoftwares@gmail.com"
+
+//va para pasta do projeto e execute git init
+// Seguir o restante pela Git Aula

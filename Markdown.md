@@ -52,7 +52,7 @@
 Aqui está um exemplo de `código inline`.
 
 ### Bloco de Código
-```
+´´´
 Código em bloco.
 Pode ter várias linhas.
 ```
